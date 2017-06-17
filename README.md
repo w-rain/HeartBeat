@@ -1,3 +1,3 @@
 #HeartBeat
 
-> http://w-rain.github.io/heartbeatforwhl.example.com/
+> https://w-rain.github.io/heartBeatForwhl.github.io/index.html
